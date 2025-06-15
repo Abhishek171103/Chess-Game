@@ -26,7 +26,7 @@ https://chess-game-1711.netlify.app/
 
 ├── script.js          # JavaScript for game logic and piece movement
 
-├── assets/            # (Optional) Images or icons for pieces
+├── assets/            # Images or icons for pieces
 
 └── README.md          # Project description and documentation
 
@@ -66,4 +66,4 @@ Simple UI design for better playability
 
 
 🧾 License
-This project is open-source under the MIT License. Feel free to use, modify, and enhance it!
+This project is open-source under the MIT License.

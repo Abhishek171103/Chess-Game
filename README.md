@@ -2,7 +2,8 @@
 A fully functional and interactive chess game built using HTML, CSS, and JavaScript. This project allows two players to play chess on the same device with all the basic rules of chess implemented, including piece movement and turn-based logic.
 
 # 🌐 Live Demo
-🔗 chess-game-1711.netlify.app
+
+https://chess-game-1711.netlify.app/
 
 # 🧩 Features
 🧠 Interactive and intuitive chess board interface
